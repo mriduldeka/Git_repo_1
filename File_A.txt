@@ -1,4 +1,5 @@
-//print name
-void printName(String name){
-  System.out.println(name);
+//print name and address
+void printName(String name,String address){
+  System.out.println(name+""+address);
 }
+
