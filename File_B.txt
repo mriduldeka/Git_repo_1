@@ -1,0 +1,4 @@
+//adding two no
+int addNo(int a,int b){
+  return a+b;
+}
