@@ -2,3 +2,7 @@
 void printName(String name){
   System.out.println(name);
 }
+
+void sayHello(){
+  System.out.println("Say Hello");
+ }
