@@ -3,7 +3,11 @@ void printName(String name,String address){
   System.out.println(name+""+address);
 }
 
+
 void sayHello(){
   System.out.println("Say Hello");
  }
 
+String getName(){
+  return "Mridul";
+}
